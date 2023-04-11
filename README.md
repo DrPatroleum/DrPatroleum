@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on everything what is interesting enough 😄
-🌱 I’m currently learningvPython 🐍
+# 🔭 I’m currently working on everything what is interesting enough 😄
+# 🌱 I’m currently learning Python 🐍
 
 
 # 💻 Tech Stack:
