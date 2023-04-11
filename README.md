@@ -1,6 +1,6 @@
 # Hi there 👋
-# 🔭 I’m currently working on everything what is interesting enough 😄
-# 🌱 I’m currently learning Python 🐍
+## 🔭 I’m currently working on everything what is interesting enough 😄
+## 🌱 I’m currently learning Python 🐍
 
 
 # 💻 Tech Stack:
