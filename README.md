@@ -15,16 +15,6 @@ I regularly work with the following tools and technologies:
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## GitHub Statistics
-
-Explore my coding activity and contributions through the statistics below:
-
-- **Streaks:**  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DrPatroleum&theme=dark&hide_border=true) 
-
-- **Top Languages:**  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPatroleum&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## Additional Information
 
 I thrive on solving challenging problems and continuously expanding my skill set. With a strong foundation in design and automation, I actively contribute to the open-source community.
